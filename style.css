@@ -1,0 +1,14 @@
+body {
+    background-color:silver;
+}
+
+#footer {
+    color: white;
+    background-color: blue;
+    position: relative;
+    padding: 10px 0px 10px 0px;
+    bottom: 0px;
+    width: 100vw;
+    max-width: 100%;
+}
+
