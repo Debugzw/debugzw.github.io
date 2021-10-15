@@ -1,4 +1,7 @@
 body {
+    background-image: url("/zimNdlovu.jpeg");
+    background-size: cover;
+    background-position: center;
     background-color: #DFF;
     text-align: center;
 }
